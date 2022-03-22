@@ -1,0 +1,25 @@
+body {
+    font-family: Verdana;
+}
+
+h1 {
+    color: #c70c0c;
+    font-size: 30px;
+}
+
+h2 {
+    font-weight: normal;
+}
+
+p {
+    color: #706e6e;
+    font-size: 18px;
+    max-width: 450px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 22px;
+    letter-spacing: 3px;
+}

@@ -1,0 +1,38 @@
+body {
+    background-image: url(../img/background.jpg);
+    background-size: cover;
+}
+
+main {
+    margin-left: 25%;
+    margin-right: 25%;
+    font-family: Georgia;
+}
+
+h1 {
+    text-align: center;
+    padding: 10px;
+    background-color: #c4c4c4;
+}
+
+div {
+    border: 3px solid gray;
+    border-radius: 15px 0 15px 0;
+    padding: 25px 25px 50px 25px;
+    margin: 25px 0;
+}
+
+h2 {
+    text-align: center;
+    color: orange;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    margin-right: 0;
+    display: block;
+    text-align: right;
+    color: rgb(202, 15, 15);
+    font-weight: bold;
+}
